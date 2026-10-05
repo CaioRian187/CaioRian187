@@ -20,7 +20,7 @@ Sou apaixonado por resolução de problemas e desenvolver software, com foco ded
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,rabbitmq,git" alt="Linguagens e Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,ts,react,docker,rabbitmq,git" alt="Linguagens e Tecnologias" />
   </a>
 </div>
 
